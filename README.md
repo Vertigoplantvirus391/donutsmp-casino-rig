@@ -34,7 +34,7 @@ This **DonutSMP casino rig mod** is a utility tool that provides **player advant
 
 ---
 
-## 🖼️ Features Preview
+## 🖼️ Preview
 
 <img width="628" height="669" alt="pic001" src="https://github.com/user-attachments/assets/c840cb1f-2fb8-4104-8f89-ba004d47e6e1" />
 
